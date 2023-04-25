@@ -93,15 +93,9 @@ hr {
   overflow: visible;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0.5rem;
-
 }
 
 p {
@@ -116,49 +110,23 @@ p {
   margin-left: -20%;
 }
 
-
-
 /*__________________________________IMAGENS PORTIFOLIO INICIO_________________________________________________________*/
-.img-1,
-.img-2,
-.img-3,
-.img-4,
-.img-5,
-.img-7,
-.img-8,
-.img-9,
-.img-10,
-.img-11,
-.img-12,
-.img-13,
-.img-14,
-.img-15,
-.img-16,
-.img-17,
-.img-18,
-.img-19,
-.img-20,
-.img-21 {
+.img-1, .img-2, .img-3, .img-4, .img-5, .img-7, .img-8, 
+
+.img-9, .img-10, .img-11, .img-12, .img-13, .img-14,
+
+.img-15, .img-16, .img-17, .img-18, .img-19, .img-20, .img-21 {
   height: 300px;
   width: 300px;
 }
 
-/*__________________________________IMAGENS PORTIFOLIO FINAL_________________________________________________________*/
-
-
 /*__________________________________PARAGRAFO INICIO_________________________________________________________*/
-.primeiro,
-.segundo,
-.terceiro,
-.quarto,
-.quinto,
+
+.primeiro, .segundo, .terceiro, .quarto, .quinto,
 .sexto {
   font-size: 20px;
   margin-left: -40%;
-
 }
-
-/*__________________________________PARAGRAFO PORTIFOLIO FINAL_________________________________________________________*/
 
 abbr[title],
 abbr[data-original-title] {
@@ -651,6 +619,8 @@ pre code {
   margin-left: auto;
 }
 
+/*______________________________RESPONSIVIDADE PARA CELULAR E MOBILE_____________________________*/
+
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
@@ -662,7 +632,6 @@ pre code {
     max-width: 720px;
   }
 }
-
 @media (min-width: 992px) {
   .container {
     max-width: 960px;
@@ -12624,6 +12593,8 @@ font-size: 16px;
   position: relative;
   top: 1px;
 }
+
+
 
 @media (max-width: 991.98px) {
   .blog-card {
