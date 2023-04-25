@@ -2,7 +2,7 @@
 Um Projeto de teste com arquivo REDME 👍
 🚀
 
-[<img src"./tela.gif" alt"portfolio da tela inicial">(https://ronyagentspp.github.io/portfolio/)]
+[<img src"./assets/img2/portfolio.gif" alt"portfolio da tela inicial">(https://ronyagentspp.github.io/portfolio/)]
 
 ## Tecnologias Utilizadas
 - HTML5
@@ -11,7 +11,7 @@ Um Projeto de teste com arquivo REDME 👍
 - Javascript
 - Bootstrap´s
 
-[<img src"./tech.png" alt"portfolio da tela inicial">(https://ronyagentspp.github.io/portfolio/)]
+[<img src"./assets/img2/tech.png" alt"portfolio da tela inicial">(https://ronyagentspp.github.io/portfolio/)]
 
 # Sobre
 
@@ -27,7 +27,7 @@ Um Projeto de teste com arquivo REDME 👍
 e-mail: ronaldo.lima_2013@hotmail.com
 
 # Admin: Rony Inside Code
-[<img src"rony.png" alt"portfolio da tela inicial">(https://ronyagentspp.github.io/portfolio/)]
+[<img src"./assets/img2/rony.png" alt"portfolio da tela inicial">(https://ronyagentspp.github.io/portfolio/)]
 
 cd repositorio-com-readme
 ...
