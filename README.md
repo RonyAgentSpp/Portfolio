@@ -57,15 +57,15 @@ Obrigado pela sua atenção.
 
 <p align="center">
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://cdn.icon-icons.com/icons2/1744/PNG/96/3643769-building-home-house-main-menu-start_113416.png/" alt="Intro">
+    <img width="150" style="border-radius: 5px" height="150" src="https://cdn.icon-icons.com/icons2/1744/PNG/96/3643769-building-home-house-main-menu-start_113416.png/" alt="Intro">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="" alt="https://cdn.icon-icons.com/icons2/20/PNG/96/businessregistration_signpen_negocio_inscripcio_2358.pngt">
+    <img width="150" style="border-radius: 5px" height="150" src="https://cdn.icon-icons.com/icons2/20/PNG/96/businessregistration_signpen_negocio_inscripcio_2358.pngt" alt="">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="https://cdn.icon-icons.com/icons2/2853/PNG/96/chat_message_conversation_bubble_icon_181523.png" alt="Chat">
+    <img width="150" style="border-radius: 5px" height="150" src="https://cdn.icon-icons.com/icons2/2853/PNG/96/chat_message_conversation_bubble_icon_181523.png" alt="Chat">
   </kbd>
 </p>
 
