@@ -36,7 +36,7 @@ Obrigado pela sua atenção.
     <img src="./assets/img/linkedin.png" alt="Linkdin">
   </a>
   <a href="https://www.facebook.com/ronaldo.limadossantos">
-    <img src="./assets/img/facebook.png" alt="Facebook">
+    <img src="./assets/img/FACEBOOK.png" alt="Facebook">
   </a>
   <a href="https://github.com/RonyAgentSpp">
       <img src="./assets/img/git-hub.png">
